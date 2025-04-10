@@ -1,4 +1,4 @@
-# vuedemo1
+# vue-notebook
 
 ## Project setup
 ```
